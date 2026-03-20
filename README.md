@@ -1,7 +1,7 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" /> Hey, I'm Shubham Varshney
+# Hey, I'm Shubham Varshney
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F72D&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Products;Learning+Rust+%F0%9F%A6%80+%7C+Diving+into+Solana+%E2%97%8E;Superteam+India+Fellow+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F72D&center=true&vCenter=true&random=false&width=900&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Products;Learning+Rust+%7C+Diving+into+Solana;Superteam+India+Fellow" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -12,17 +12,21 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Full-Stack Software Engineer with 2 years of experience building production-ready apps.
-- 🧠 Strong in React, Next.js, TypeScript, Node.js, API design, and performance optimization.
-- 🦀 Currently learning **Rust** and diving deep into **Solana development**.
-- 🏆 **Superteam India Fellow**.
-- ⚡ I enjoy taking ownership from idea to deployment.
+- Full-Stack Software Engineer with 2 years of experience building production-ready apps.
+- Strong in React, Next.js, TypeScript, Node.js, API design, and performance optimization.
+- Currently learning **Rust** and diving deep into **Solana development**.
+- **Superteam India Fellow**.
+- I enjoy taking ownership from idea to deployment.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=JavaScript+%7C+TypeScript+%7C+C+%7C+Java;React+%7C+Next.js+%7C+Tailwind+%7C+Redux+%7C+Zustand;Node.js+%7C+Express+%7C+GraphQL+%7C+WebSockets;PostgreSQL+%7C+MongoDB+%7C+Supabase+%7C+Docker+%7C+AWS;Currently+Learning%3A+Rust+%2B+Solana" alt="Animated tech stack" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,supabase,tailwind,docker,aws,git,github,graphql" />
@@ -37,31 +41,31 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 📈 PaperX
+### PaperX
 - Paper trading platform for Indian markets with virtual capital and real-time NSE/BSE data.
 - Live candlestick charts with 2-second polling and realistic portfolio simulation.
 - Built with Next.js, TypeScript, Upstox API, PostgreSQL, Drizzle ORM, Tailwind CSS.
 
-### 🔴 RedCircle
+### RedCircle
 - Tokenized Reddit posts into tradable assets with creator/curator flows.
 - Added leaderboards, rich profiles, and interactive trading analytics.
 - Built with React, TypeScript, Node.js, Express, PostgreSQL, Reddit OAuth 2.0.
 
-### 🧠 ReviewIQ
+### ReviewIQ
 - AI-powered platform for GitHub PR analysis (insights, refactor suggestions, issue detection).
 - Implemented webhook workflows, vector embeddings, and automated static checks.
 - Built with React, TypeScript, Node.js, Express, PostgreSQL, Docker.
 
-### 🤝 Devbond
+### Devbond
 - Developer networking platform with live communication.
 - Implemented WebSocket-powered real-time interaction.
 - Built with MERN stack, REST APIs, JWT.
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamvarshney&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -74,7 +78,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="mailto:shubh.varshneycode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
