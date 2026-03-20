@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamvarshney&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shubhamvarshney?style=for-the-badge&logo=github&label=Followers" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=shubhamxocde&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/shubhamxocde?style=for-the-badge&logo=github&label=Followers" alt="followers" />
   <img src="https://img.shields.io/badge/Superteam%20India-Fellow-6f42c1?style=for-the-badge&logo=solana&logoColor=white" alt="superteam india fellow" />
 </p>
 
@@ -68,12 +68,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamvarshney&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvarshney&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamxocde&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamxocde&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvarshney&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxocde&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,7 +83,7 @@
 <p align="left">
   <a href="mailto:shubh.varshneycode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shubhamvarshney"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/shubhamxocde"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefoxbrowser&logoColor=FF7139" /></a>
 </p>
