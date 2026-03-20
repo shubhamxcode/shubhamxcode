@@ -25,37 +25,19 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Tech+Meteor+Lane;Frontend+%7C+Backend+%7C+Cloud+%7C+Web3+Learning" alt="Animated tech stack title" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=JavaScript+%7C+TypeScript+%7C+C+%7C+Java;React+%7C+Next.js+%7C+Tailwind+%7C+Redux+%7C+Zustand;Node.js+%7C+Express+%7C+GraphQL+%7C+WebSockets;PostgreSQL+%7C+MongoDB+%7C+Supabase+%7C+Docker+%7C+AWS;Currently+Learning%3A+Rust+%2B+Solana" alt="Animated tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQz4J3pT9m/giphy.gif" width="100%" height="8" alt="meteor divider" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,supabase,tailwind,docker,aws,git,github,graphql" />
 </p>
 
-<marquee behavior="scroll" direction="left" scrollamount="9">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</marquee>
-
-<marquee behavior="scroll" direction="right" scrollamount="11">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-6B4F3A?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-</marquee>
+<p align="center">
+  <img src="https://img.shields.io/badge/WebSockets-RealTime-black?style=for-the-badge&logo=socket.io" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/State-Redux%20%7C%20Zustand%20%7C%20TanStack-764abc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Rust%20%2B%20Solana-9945FF?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
 
 ---
 
