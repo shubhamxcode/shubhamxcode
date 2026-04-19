@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shubhampcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhampcode" height="30" width="40" /></a>
+<a href="https://twitter.com/shubhamxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamxcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhamxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamxcode" height="30" width="40" /></a>
 <a href="https://instagram.com/shubhamvarshney61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamvarshney61" height="30" width="40" /></a>
 <a href="https://discord.gg/shubhxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhxcode" height="30" width="40" /></a>
@@ -29,6 +29,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shubhampcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhampcode" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhampcode&show_icons=true&locale=en&layout=compact" alt="shubhampcode" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhamxcode&show_icons=true&locale=en&layout=compact" alt="shubhamxcode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampcode&show_icons=true&locale=en" alt="shubhampcode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamxcode&show_icons=true&locale=en" alt="shubhamxcode" /></p>
