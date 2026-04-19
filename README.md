@@ -1,63 +1,34 @@
-# Hey, I'm Shubham Varshney
+<h1 align="center">Hi 👋,I'M Shubham Varshney</h1>
+<h3 align="center">A passionate Fullstack web developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Building+scalable+web+products;Currently+learning+Rust+and+Solana;Superteam+India+Fellow" alt="Typing animation" />
-</p>
+- 🔭 I’m currently working on [PaperX](https://www.paperx.xyz)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamxocde&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/shubhamxocde?style=for-the-badge&logo=github&label=Followers" alt="followers" />
-  <img src="https://img.shields.io/badge/Superteam%20India-Fellow-6f42c1?style=for-the-badge&logo=solana&logoColor=white" alt="Superteam India Fellow" />
-</p>
+- 🌱 I’m currently learning **Rust and Diving into the solana blockchain**
 
-## About Me
+- 👨‍💻 All of my projects are available at [https://portfolio-ydav.vercel.app](https://portfolio-ydav.vercel.app)
 
-- Full-Stack Software Engineer with 2 years of experience shipping production-ready applications.
-- Currently learning **Rust** and diving into **Solana development**.
-- **Superteam India Fellow**.
-- Contact: **shubh.varshneycode@gmail.com**
+- 💬 Ask me about **Web development**
 
-## Current Tech Stack
+- 📫 How to reach me **shubh.varshneycode@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1I8sX7IM1aRh5y77MqAp0aUcD1kzmumjS/view?usp=sharing](https://drive.google.com/file/d/1I8sX7IM1aRh5y77MqAp0aUcD1kzmumjS/view?usp=sharing)
+
+- ⚡ Fun fact **I love building**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,mongodb,supabase,tailwind,docker,aws,git,github,graphql" />
+<a href="https://twitter.com/shubhampcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhampcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhamxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamxcode" height="30" width="40" /></a>
+<a href="https://instagram.com/shubhamvarshney61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubhamvarshney61" height="30" width="40" /></a>
+<a href="https://discord.gg/shubhxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shubhxcode" height="30" width="40" /></a>
 </p>
 
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- **PaperX** - Paper trading platform for Indian markets with virtual capital, real-time data, and portfolio simulation.  
-  Tech: Next.js, TypeScript, Upstox API, PostgreSQL, Drizzle ORM, Tailwind CSS
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shubhampcode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhampcode" /></a></p><br><br>
 
-- **RedCircle** - Platform to tokenize Reddit posts as tradable assets with profiles, leaderboards, and analytics.  
-  Tech: React, TypeScript, Node.js, Express, PostgreSQL, Reddit OAuth 2.0
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhampcode&show_icons=true&locale=en&layout=compact" alt="shubhampcode" /></p>
 
-- **ReviewIQ** - AI-powered GitHub PR review platform with code insights, issue detection, and static checks.  
-  Tech: React, TypeScript, Node.js, Express, PostgreSQL, Docker, AI API
-
-- **Devbond** - Developer networking platform with real-time communication.  
-  Tech: MERN Stack, REST APIs, JWT, WebSockets
-
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubhamxocde&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamxocde&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamxocde&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-## Snake Commit Game
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
-</p>
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://github.com/shubhamxocde"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shubhamxcode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/shubhamxcode"><img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhampcode&show_icons=true&locale=en" alt="shubhampcode" /></p>
