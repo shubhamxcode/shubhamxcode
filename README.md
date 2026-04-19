@@ -135,33 +135,6 @@ const shubham = {
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhamxcode&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<!-- Snake game animation generated from your commits -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamxcode/shubhamxcode/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamxcode/shubhamxcode/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shubhamxcode/shubhamxcode/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-> 🔧 **To enable the snake animation**, add this GitHub Actions workflow to your profile repo:
-> Create `.github/workflows/snake.yml` (see instructions below ↓)
-
----
 
 ## 💡 Dev Quote of the Day
 
