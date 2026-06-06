@@ -46,7 +46,7 @@ const shubham = {
 
 ---
 
-### Projects
+### Things I've built
 
 | Project | Stack | |
 |---|---|---|
@@ -57,6 +57,17 @@ const shubham = {
 ---
 
 <div align="center">
+
+☕ &nbsp;If my work saved you some time, consider buying me a coffee
+
+<br/><br/>
+
+<a href="https://www.buymeacoffee.com/shubhampcode">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="170" alt="Buy me a coffee" />
+</a>
+
+<br/><br/>
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
   <sub>Ship fast. Learn faster. Build forever.</sub>
 </div>
