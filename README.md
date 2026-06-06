@@ -7,7 +7,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/shubhamXcode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamxcode/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.shubhamxcode.me)
-[![Profile Views](https://komarev.com/ghpvc/?username=shubhamvarshney&label=views&color=7c3aed&style=flat-square)](https://github.com/shubhamvarshney)
 
 </div>
 
@@ -56,12 +55,6 @@ const shubham = {
 | **[ReviewIQ](https://www.reviewiq.xyz)** | React, Node.js, PostgreSQL, Docker, AI | AI platform to analyze GitHub PRs with code insights and refactor suggestions |
 
 ---
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamvarshney&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=1a1a2e&hide_border=true" />
-</div>
-
-<br/>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
