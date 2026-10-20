@@ -49,8 +49,6 @@ Currently building PaperX. Learning Rust and system design. Open to full-time Fu
 
 <img src="https://streak-stats.demolab.com?user=shubhamxcode&theme=tokyonight&hide_border=true&background=0d1117" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamxcode&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" />
-
 </div>
 
 ## Contribution snake
